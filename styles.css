@@ -7,7 +7,7 @@
   body {
     height: 100vh;
     display: flex;
-    background: #060AB2;
+    background:antiquewhite;
   }
   
   .memory-game {
@@ -52,4 +52,12 @@
   
   .front-face {
     transform: rotateY(180deg);
+  }
+
+
+  h1, p{
+    font-family: cursive ;
+    font-size: 1em;
+    font-color: blue;
+    margin:0 auto;
   }
