@@ -55,9 +55,17 @@
   }
 
 
-  h1, p{
+  h1,p{
     font-family: cursive ;
     font-size: 1em;
-    font-color: blue;
-    margin:0 auto;
+    text-shadow: 4px 4px 5px 1px;
+  }
+
+  h1{
+    margin: 3em 1em 4em 1em;
+    font-size:2.5em;
+    font-display: block;
+    text-align:right;
+    width:600px;
+    color:  #1C7CCC;
   }
