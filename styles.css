@@ -53,19 +53,21 @@
   .front-face {
     transform: rotateY(180deg);
   }
-
-
-  h1,p{
-    font-family: cursive ;
-    font-size: 1em;
-    text-shadow: 4px 4px 5px 1px;
-  }
-
+  
   h1{
+    font-family: cursive ;
     margin: 3em 1em 4em 1em;
-    font-size:2.5em;
+    font-size:50px;
     font-display: block;
     text-align:right;
     width:600px;
     color:  #1C7CCC;
   }
+  
+  p{
+    font-family: cursive ;
+    font-size: .75em;
+    text-align: inherit;
+    color: grey;
+  }
+
